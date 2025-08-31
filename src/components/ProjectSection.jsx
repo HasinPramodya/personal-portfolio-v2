@@ -5,7 +5,7 @@ const projects = [
         id: 1,
         title: "Crystal Beauty Clear",
         description: "an e-commerce cosmetic item retail application.The platform targets retail customers looking for an easy and personalized shopping experience, as well as administrators who manage the shop’s digital catalog, user base, and order processing system.",
-        image: "/projects/project1.png",
+        image: "projects/project1.png",
         tags: ["React", "Node.js", "Express"],
         demoLink: "https://example.com/demo1",
         githubLink: "https://github.com/HasinPramodya/CBC-Frontend.git",
