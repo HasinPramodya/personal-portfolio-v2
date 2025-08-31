@@ -7,7 +7,7 @@ const projects = [
         description: "an e-commerce cosmetic item retail application.The platform targets retail customers looking for an easy and personalized shopping experience, as well as administrators who manage the shop’s digital catalog, user base, and order processing system.",
         image: "projects/project1.png",
         tags: ["React", "Node.js", "Express"],
-        demoLink: "https://example.com/demo1",
+        demoLink: "https://cbc-frontend.netlify.app/",
         githubLink: "https://github.com/HasinPramodya/CBC-Frontend.git",
     },
     {
